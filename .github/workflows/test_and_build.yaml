@@ -10,7 +10,8 @@ on:
 
 permissions:
   contents: read
-
+  packages: write
+  
 jobs:
   build-calculadora:
     runs-on: ubuntu-latest
