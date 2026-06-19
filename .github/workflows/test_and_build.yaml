@@ -13,7 +13,7 @@ permissions:
   contents: read
 
 jobs:
-  build:
+  build-Calculadora:
 
     runs-on: ubuntu-latest
 
